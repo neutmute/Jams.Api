@@ -4,6 +4,7 @@
     <id>jams.core</id>
     <version>6.4.51</version>
     <authors>neutmute</authors>
+    <iconUrl>https://user-images.githubusercontent.com/1303131/32081533-c6e7aba0-bb01-11e7-9728-c611bbf72585.jpg</iconUrl>
     <projectUrl>https://github.com/neutmute/Jams.Api</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Unofficial packaging for JAMS Scheduler</description>
