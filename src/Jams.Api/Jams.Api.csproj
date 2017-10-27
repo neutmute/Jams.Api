@@ -4,4 +4,8 @@
     <TargetFramework>net46</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="jams.core" Version="6.4.51" />
+  </ItemGroup>
+
 </Project>

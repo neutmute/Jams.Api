@@ -1,5 +1,4 @@
 ﻿
-using Kraken.Core;
 using MVPSI.JAMS;
 using System;
 using System.Collections.Generic;
