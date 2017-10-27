@@ -8,7 +8,7 @@
     <Description>A more sensible API for JAMS Scheduler</Description>
     <PackageProjectUrl>https://github.com/neutmute/Jams.Api</PackageProjectUrl>
     <RepositoryUrl>https://github.com/neutmute/Jams.Api</RepositoryUrl>
-    <PackageId>jams.api</PackageId>
+    <PackageId>Jams.Api</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
