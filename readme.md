@@ -1,4 +1,7 @@
 # JAMS Scheduler API
+[![Build status](https://ci.appveyor.com/api/projects/status/0u6fh1vh1ux3mj88/branch/master?svg=true)](https://ci.appveyor.com/project/neutmute/jams-api/branch/master)
+
+
 JAMS Scheduler has assemblies that can be used for an API.
 As an API the assemblies and documentation are somewhat lacking.
 
