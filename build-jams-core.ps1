@@ -8,7 +8,7 @@ Foreach($nuspec in $nuspecs){
     nuget pack $nuspec.FullName
 }
 
-$artifactsFolder = "./.artifacts"
+$artifactsFolder = "./_artifacts"
 
 remove-item -path $artifactsFolder -Force -Recurse -ErrorAction SilentlyContinue
 New-Item $artifactsFolder -Force -Type Directory | Out-Null
