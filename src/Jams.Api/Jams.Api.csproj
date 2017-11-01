@@ -5,7 +5,7 @@
     <PackageIconUrl>https://user-images.githubusercontent.com/1303131/32081533-c6e7aba0-bb01-11e7-9728-c611bbf72585.jpg</PackageIconUrl>
     <Authors>neutmute</Authors>
     <Company>neutmute</Company>
-    <Description>A more sensible API for JAMS Scheduler</Description>
+    <Description>An unofficial, better designed API wrapper for JAMS Scheduler</Description>
     <PackageProjectUrl>https://github.com/neutmute/Jams.Api</PackageProjectUrl>
     <RepositoryUrl>https://github.com/neutmute/Jams.Api</RepositoryUrl>
     <PackageId>Jams.Api</PackageId>
