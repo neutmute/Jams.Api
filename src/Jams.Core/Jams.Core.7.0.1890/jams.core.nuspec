@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>jams.core</id>
+    <version>7.0.1890</version>
+    <authors>pchwu</authors>
+    <iconUrl>https://user-images.githubusercontent.com/1303131/32081533-c6e7aba0-bb01-11e7-9728-c611bbf72585.jpg</iconUrl>
+    <projectUrl>https://github.com/neutmute/Jams.Api</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Unofficial packaging for JAMS Scheduler</description>
+    <tags></tags>
+  </metadata>
+</package>
